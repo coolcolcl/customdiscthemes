@@ -20,7 +20,7 @@
 /* GLOBAL VARIABLES */
 *[class*=theme-] {
 
-  --unity-custom-font: 'Karla', sans-serif;
+  --unity-custom-font: unset;
 
   --unity-gaps: 1;
 
