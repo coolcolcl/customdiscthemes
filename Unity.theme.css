@@ -48,14 +48,14 @@
 *.theme-dark {
   --unity-accent-hue: -70;
   --unity-accent-saturation: 30%;
-  --unity-accent-lightness: 70%;
+  --unity-accent-lightness: 80%;
   --unity-background-primary: #14120f;
   --unity-background-primary-rgb: 20, 18, 15;
   --unity-background-secondary: #24201a; /* might change to be lighter*/
-  --unity-background-secondary-alt: #2e2820; /* or equal to highlight */
+  --unity-background-secondary-alt: #24201a; /* or equal secondary */
   --unity-background-secondary-rgb: 36, 32, 26;
-  --unity-background-tertiary: #362f25;
-  --unity-background-tertiary-rgb: 54, 47, 37;
+  --unity-background-tertiary: #2e2820;
+  --unity-background-tertiary-rgb: 46, 40, 32;
   --unity-background-image:none;
   --unity-opacity: 1;
 
