@@ -46,9 +46,9 @@
 
 /* DARK THEME VARIABLES  */
 *.theme-dark {
-  --unity-accent-hue: 20;
-  --unity-accent-saturation: 50%;
-  --unity-accent-lightness: 10%;
+  --unity-accent-hue: 0;
+  --unity-accent-saturation: 100%;
+  --unity-accent-lightness: 50%;
   --unity-background-primary: #14120f;
   --unity-background-primary-rgb: 20, 18, 15;
   --unity-background-secondary: #24201a; /* might change to be lighter*/
