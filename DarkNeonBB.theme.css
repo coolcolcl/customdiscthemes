@@ -1,6 +1,6 @@
 /**
  * @name Dark Neon
- * @author Bates
+ * @author Bates 
  * @version 2.0.1
  * @source https://gitlab.com/B4T3S/bates-discord-theme
  * @website https://B4T3S.gitlab.io/bates-discord-theme/
@@ -26,7 +26,7 @@
   --font-primary: 'Karla', sans-serif;
   --font-display: var(--font-primary) !important;
  
-  --rgb-highlight: 168, 134, 106; /* The main highlight color */
+  --rgb-highlight: 224, 188, 162; /* The main highlight color */
   --rgb-background: 20, 18, 15; /* The main background color */
   --rgb-text: 171, 167, 162; /* The main text color */
   --rgb-close-button: 247, 114, 127; /* The main "close this" or "deny" color */
