@@ -49,13 +49,13 @@
   --unity-accent-hue: 210;
   --unity-accent-saturation: 99%;
   --unity-accent-lightness: 50%;
-  --unity-background-primary: #000000;
-  --unity-background-primary-rgb: 0, 0, 0;
+  --unity-background-primary: #14120f;
+  --unity-background-primary-rgb: 20, 18, 15;
   --unity-background-secondary: #24201a; /* might change to be lighter*/
-  --unity-background-secondary-alt: #0044ff; /*#14120f */
-  --unity-background-secondary-rgb: 43, 43, 43;
-  --unity-background-tertiary: #454545;
-  --unity-background-tertiary-rgb: 69, 69, 69;
+  --unity-background-secondary-alt: #0044ff; /* test (#2e2820) */
+  --unity-background-secondary-rgb: 36, 32, 26;
+  --unity-background-tertiary: #362f25;
+  --unity-background-tertiary-rgb: 54, 47, 37;
   --unity-background-image:none;
   --unity-opacity: 1;
 
