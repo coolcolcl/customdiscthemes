@@ -28,7 +28,7 @@
   --unity-background-image: unset;
   --unity-background-blur: unset;
   --unity-inset: 10px;
-  --unity-border-radius: 6px;
+  --unity-border-radius: 8px;
   --unity-floating-blur-radius: 5px;
 
   --unity-chat-bubble: 1;
@@ -46,18 +46,18 @@
 
 /* DARK THEME VARIABLES  */
 *.theme-dark {
-  --unity-accent-hue: 210;
-  --unity-accent-saturation: 99%;
-  --unity-accent-lightness: 50%;
+  --unity-accent-hue: 20;
+  --unity-accent-saturation: 50%;
+  --unity-accent-lightness: 10%;
   --unity-background-primary: #14120f;
   --unity-background-primary-rgb: 20, 18, 15;
   --unity-background-secondary: #24201a; /* might change to be lighter*/
-  --unity-background-secondary-alt: #0044ff; /* test (#2e2820) */
+  --unity-background-secondary-alt: #2e2820; /* or equal to highlight */
   --unity-background-secondary-rgb: 36, 32, 26;
   --unity-background-tertiary: #362f25;
   --unity-background-tertiary-rgb: 54, 47, 37;
   --unity-background-image:none;
-  --unity-opacity: 1;
+  --unity-opacity: 0.7;
 
   --guilds-background-color: #00000091;
   --guilds-background-image: unset;
