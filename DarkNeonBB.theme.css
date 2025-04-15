@@ -1,7 +1,7 @@
 /**
  * @name Dark Neon
- * @author Bates 
- * @version 2.0.1
+ * @author Bates
+ * @version 2.2.0
  * @source https://gitlab.com/B4T3S/bates-discord-theme
  * @website https://B4T3S.gitlab.io/bates-discord-theme/
  * @donate https://www.paypal.com/paypalme/floriancegledi
@@ -21,7 +21,9 @@
 /* my font */
 
 /* CUSTOMIZE COLORS IN HERE! */
-:root {
+:root,
+.theme-dark, 
+.theme-light {
   /* dunno how this works (might now override) pretty much it replaces the font */
   --font-primary: 'Karla', sans-serif;
   --font-display: var(--font-primary) !important;
@@ -29,8 +31,8 @@
   --rgb-highlight: 153, 140, 132; /* The main highlight color (white) */
   --rgb-background: 84, 72, 62; /* The main background color */
   --rgb-text: 217, 195, 178; /* The main text color */
-  --rgb-close-button: 186, 22, 77; /* The main "close this" or "deny" color */
-  --rgb-online-color: 255, 255, 255; /* The color used in the "online" user status symbol */
+  --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
+  --rgb-online-color: 5255, 255, 255; /* The color used in the "online" user status symbol */
   --rgb-afk-color: 255, 255, 255; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 255, 255, 255; /* The color used in the "do not disturb" user status symbol */
   --rgb-streaming-color: 255, 255, 255; /* The color used in the "streaming X" user status symbol */
@@ -40,6 +42,6 @@
   --background-image: unset; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
-  --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
-  --background-brightness: 10%; /* Changes the background images brightness */
+  --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
+  --background-brightness: 100%; /* Changes the background images brightness */
 }
