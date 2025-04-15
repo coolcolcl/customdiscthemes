@@ -26,10 +26,10 @@
   --font-primary: 'Karla', sans-serif;
   --font-display: var(--font-primary) !important;
  
-  --rgb-highlight: 255, 255, 255; /* The main highlight color (white) */
-  --rgb-background: 20, 18, 15; /* The main background color */
-  --rgb-text: 171, 167, 162; /* The main text color */
-  --rgb-close-button: 247, 114, 127; /* The main "close this" or "deny" color */
+  --rgb-highlight: 125, 112, 104; /* The main highlight color (white) */
+  --rgb-background: 38, 33, 29; /* The main background color */
+  --rgb-text: 217, 195, 178; /* The main text color */
+  --rgb-close-button: 186, 22, 77; /* The main "close this" or "deny" color */
   --rgb-online-color: 255, 255, 255; /* The color used in the "online" user status symbol */
   --rgb-afk-color: 255, 255, 255; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 255, 255, 255; /* The color used in the "do not disturb" user status symbol */
